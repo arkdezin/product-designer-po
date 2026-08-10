@@ -35,18 +35,18 @@ Due to lack of proper process & a clear path, currently **data management**, **d
 
 ### Key Features
 
-- Centeralized Catalog Maintenance Page
+- Centralized Catalog Maintenance Page
 - Ability to request changes/modification of the catalog product.
 - Check the overall product catalog Confidence Score and Individual product Confidence Score
 - Review Products with more data and clarity
 
 ### Workflows
 
-- Business Team & Data Management team will have full access to the catalog Maintenace module
+- Business Team & Data Management team will have full access to the catalog Maintenance module
 - Below are the mentioned access and capabilities available:
-  - **Catalog Maintenace Dashboard** - includes`Stats`, `Filters`, `View or Workspace Creation` and `Catalog product list`.
+  - **Catalog Maintenance Dashboard** - includes`Stats`, `Filters`, `View or Workspace Creation` and `Catalog product list`.
   - **Request Modification** - to suggest any modification to the live catalog products with a reason to back the modification.
-  - **Catalog Maintenance Queue** - to see the list of products which are currently under review or pending review, incudes `Filters`, `list of products`, `assignment cta`.
+  - **Catalog Maintenance Queue** - to see the list of products which are currently under review or pending review, includes `Filters`, `list of products`, `assignment cta`.
   - **Product Review** - to review the product and approve the product with final data.
 
 - Product Review Team will have access to only the catalog Maintenance module
