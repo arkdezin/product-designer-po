@@ -7,7 +7,7 @@ The top management has requested an learning module in the existing product so t
 - listing of training modules
 - creation of the trainings
 - assigning those trainings to the appropriate person
-  In the initial requirements the assignment rules for the training were really complex, so that they could be assigned based on location, client, quest, jobs, user, etc.
+In the initial requirements the assignment rules for the training were really complex, so that they could be assigned based on location, client, quest, jobs, user, etc.
 
 ## Problem Reported
 
@@ -23,6 +23,12 @@ So the business goal with this was that creating an learning model within the ex
 1. reduce the extra cost of that third-party software
 2. streamline the trainings and the work based on those trainings into a single platform
 3. the research associate would not have to switch between multiple devices just to perform that work so they can work on the same device and within the same application also
+
+## Assumptions
+Here are some of the assumptions made when the problem was initially discussed:
+1. We are going to create a normal learning module like we have on multiple platforms like Udemy or Coursera or something like that.
+2. We are going to create the training with configurable settings on the web portal, where the user can define if the training is gradable. If the training is gradable, then what is the minimum percentage of completion required to mark this training as complete on the associate side?
+3. We assume that one training can have only one video or training material.
 
 ## Proposed Deadline
 
