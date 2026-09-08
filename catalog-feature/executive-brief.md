@@ -18,9 +18,6 @@ Since there were multiple teams that needed to be working on the platform, some 
 - different data visibility to different team members
 - submitting that data for a review purpose
 
-## Assumptions
-
-
 ## Target Audience
 The target audience was our internal team, including:
 - business management, 
