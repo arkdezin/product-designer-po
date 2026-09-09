@@ -29,6 +29,6 @@ A Centralized platform with clear workflow
 
 ### Ideation Prototype
 
-[Prototype Link (Click to open)](https://catalog-maintenance.figma.site/)
+[Prototype Link (Click to open)](https://arkdezin.github.io/catalog/)
 
 > _Note: This is not final design, just for understanding the concept and workflow._
